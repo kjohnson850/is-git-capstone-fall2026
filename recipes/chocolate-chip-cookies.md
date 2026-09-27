@@ -48,3 +48,7 @@
 
 # 9\. Let the cookies cool before serving.
 
+\## Baking Tip
+
+For softer cookies, remove them from the oven when the edges are golden but the centers still look slightly soft.
+
